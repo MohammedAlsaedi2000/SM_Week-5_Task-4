@@ -1,4 +1,4 @@
-# SM_Week-5_Task-4
+# Controlling LED via Speech
 
 ## Description
 In this project, I linked 2 web pages with esp32 board that controls an LED through voice commands such as: open, close
